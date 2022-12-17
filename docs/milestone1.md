@@ -16,19 +16,19 @@ Kanvaswire
 
 # Part 1: Wireframes
 ### Landing Wireframe
-<img src= "../public/landing-wireframe.png">
+<img src= "../demos/landing-wireframe.png">
 
 ### Canvas Wireframe
-<img src= "../public/canvas-wireframe.png">
+<img src= "../demos/canvas-wireframe.png">
 
 ### Feed Wireframe
-<img src= "../public/feed-wireframe.png">
+<img src= "../demos/feed-wireframe.png">
 
 ### Account Wireframe
-<img src= "../public/accountwireframe.png">
+<img src= "../demos/accountwireframe.png">
 
 ### Project Wireframe
-<img src= "../public/project-wireframe.png">
+<img src= "../demos/feed-wireframe.png">
 
 # Part 2: HTML and CSS
 Our website is hosted ([here](https://pphan-sil.github.io/326Project/)): https://pphan-sil.github.io/326Project/
@@ -45,8 +45,10 @@ Here is the design of our canvas page. Users will have the option to chat in thi
 
 ### Landing Page
 This is our landing page. When user is not logged in, they will visit the landing page before entering our app. The landing page features top projects of the day and has a search bar that allow user to quickly search for a project.
-<img src= "../public/LandingPage(1).png">
-<img src= "../public/LandingPage(2).png">
+
+<img src= "../demos/LandingPage(1).png">
+
+<img src= "../demos/LandingPage(2).png">
 
 We also made part of our website responsive
 
@@ -54,22 +56,19 @@ We also made part of our website responsive
 
 ### Account Page
 The account page is where user can configure, edit, and view personal informations and their past projects.
-<img src="../public/accountpage.png">
+<img src="../demos/accountpage.png">
 
 ### Feed Page
 If a user is logged in, they will be taken to the Feed Page instead of the landing page. Feed page has different projects ideas from users looking for collaborators and curated list of repo from Github for users who do not have an idea for the moment. The top left side bar features quick link to the newest projects of the day, and the top 5 and top 3 projects of the day and month. On the bottom left sidebar, we will show the most popuplar tech stacks used for projects in our platform, so user can choose to learn that tech stacks if they want to. A project post will have its name in the title, and users can comment under the post by texting in the text book and click the arrow button. On the right side bar, we have the Related Projects for users who looking projects similar to the one they are viewing. This page also has a search bar, where user can search a list of projects by tags, names, number of stars, likes, and upvotes.
 
 
-<img src="../public/feedpage.png">
-
-## Responsive Landing Page
-<img src="../public/reponsive.png">
+<img src="../demos/feedpage.png">
 
 
 ### Project Page
 The Project Page can be accessed by clicking in a project post in the Feed Page. This page will show more in-depth details about a single project, with tags and comments. The post also a link to the whiteboard, where users can access our canvas. Users can upvotes, hearts, or likes a project in here. This page also has the same side bars as the feed page, since we want to provide fast access for user to the top projects or the related projects without having to return to the Feed Page
-<img src="../public/projectpage1.png">
-<img src="../public/projectpage2.png">
+<img src="../demos/projectpage1.png">
+<img src="../demos/projectpage2.png">
 
 ### 404 Page Not Found
 This is our 404 Page. This page should appear whenever a user tries to access an incorrect page or a page they are not authorized to
