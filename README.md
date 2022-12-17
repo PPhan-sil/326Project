@@ -16,4 +16,6 @@ python3 heroku_log.py // to run heroku logger
 - Phat Nguyen ([PeterNg15](https://github.com/PeterNg15))
 
 # Video
+[Our YouTube Video](youtube.com/watch?v=dAeupCuPvW8 )
+
 [![Our YouTube Video](https://img.youtube.com/vi/dAeupCuPvW8/0.jpg)](https://www.youtube.com/watch?v=dAeupCuPvW8)
