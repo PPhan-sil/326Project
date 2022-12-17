@@ -22,7 +22,7 @@ We will be using the Github API to get the current top 5 repositories in the wor
 
 ### Database Diagram:
  
- <img src="../public/Db1.excalidraw.png">
+ <img src="../demos/Db1.excalidraw.png">
 
 ### User Object:
 - Fields: userId, email, name, avatar, posts, totalPosts, likes, comments, dateCreated, favouriteTech, password
